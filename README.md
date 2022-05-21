@@ -4,14 +4,14 @@ The outbreak of coronavirus disease (COVID-19) has spread rapidly to every corne
 ## Goal
 To Detect and Classify COVID using, CatBoost and RandomForest; as an asset of Machine Learning.
 
-# Dataset Information
+## Dataset Information
 
 The dataset contains gene-expression and week labels: COVID Severity (Severe, Mild and Normal) which contains 23,189 Cells and 1,999 Genes.
 
 **Download links:-** 
 
 
-# Libraries
+## Libraries
 
 <li>sklearn
 <li>catboost
@@ -21,14 +21,14 @@ The dataset contains gene-expression and week labels: COVID Severity (Severe, Mi
 <li>seaborn
 <li>collections
 
-# Algorithms
+## Algorithms
 
 <li>Gradient Boosting Classifier (CatBoost)
 <li>Random Forest Classifier
 <li>Support Vector Machine
 
-# Prediction Metrics
+## Prediction Metrics
 ![alt text](https://github.com/aekanshgoel/COVID_Detection_using_Radiography_Data/blob/main/summary-plot.png)
 
-# Prediction Results
+## Prediction Results
 ![alt text](https://github.com/aekanshgoel/COVID_Detection_using_Radiography_Data/blob/main/results.png)
