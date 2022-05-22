@@ -22,6 +22,9 @@ The dataset contains gene-expression and week labels: COVID Severity (Severe, Mi
 <li>Support Vector Machine
 
 ## Prediction Metrics
+  
+<img src="https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/boxplot.png" width="48">
+  
 ![alt text](https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/boxplot.png)
 ![alt text](https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/cross-validation.png)
 
