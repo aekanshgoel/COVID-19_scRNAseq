@@ -22,13 +22,10 @@ The dataset contains gene-expression and week labels: COVID Severity (Severe, Mi
 <li>Support Vector Machine
 
 ## Prediction Metrics
-  
-<img src="https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/boxplot.png" width="48">
-  
-![alt text](https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/boxplot.png)
-![alt text](https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/cross-validation.png)
+<img src="https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/boxplot.png" width="200">
+<img src="https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/cross-validation.png" width="200">
 
 ## Prediction Results
-![alt text](https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/confusion-mat.png)
-![alt text](https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/featureimp.png)
-![alt text](https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/shap.png)
+<img src="https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/confusion-mat.png" width="200">
+<img src="https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/featureimp.png" width="200">
+<img src="https://github.com/aekanshgoel/COVID-19_scRNAseq/blob/main/shap.png" width="200">
