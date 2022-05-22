@@ -1,0 +1,44 @@
+Found test patients
+Total test cells: 5608
+Test percentage of all 23189 cells: 0.24
+Test label counts (# patients): {'Normal': 1, 'Severe': 1, 'Mild': 1}
+Test patient IDs and labels: {'3': 'Normal', '8': 'Severe', '6': 'Mild'}
+Cell label count (test): {'Normal': 1344, 'Severe': 2730, 'Mild': 1534}
+Cell label percentages (test): {'Normal': 0.24, 'Severe': 0.49, 'Mild': 0.27}
+
+Writing test set to files
+Finished writing test set to files
+
+
+Remaining patients (for training): ['12', '7', '11', '9', '13', '2', '1', '5', '10', '4']
+
+Writing files for patient 12 to ./outputs/train-data-labels_1.csv and ./outputs/train-data_1.csv
+Done writing files for patient 12
+
+Writing files for patient 7 to ./outputs/train-data-labels_2.csv and ./outputs/train-data_2.csv
+Done writing files for patient 7
+
+Writing files for patient 11 to ./outputs/train-data-labels_3.csv and ./outputs/train-data_3.csv
+Done writing files for patient 11
+
+Writing files for patient 9 to ./outputs/train-data-labels_4.csv and ./outputs/train-data_4.csv
+Done writing files for patient 9
+
+Writing files for patient 13 to ./outputs/train-data-labels_5.csv and ./outputs/train-data_5.csv
+Done writing files for patient 13
+
+Writing files for patient 2 to ./outputs/train-data-labels_6.csv and ./outputs/train-data_6.csv
+Done writing files for patient 2
+
+Writing files for patient 1 to ./outputs/train-data-labels_7.csv and ./outputs/train-data_7.csv
+Done writing files for patient 1
+
+Writing files for patient 5 to ./outputs/train-data-labels_8.csv and ./outputs/train-data_8.csv
+Done writing files for patient 5
+
+Writing files for patient 10 to ./outputs/train-data-labels_9.csv and ./outputs/train-data_9.csv
+Done writing files for patient 10
+
+Writing files for patient 4 to ./outputs/train-data-labels_10.csv and ./outputs/train-data_10.csv
+Done writing files for patient 4
+
