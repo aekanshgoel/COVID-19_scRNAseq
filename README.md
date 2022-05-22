@@ -3,7 +3,7 @@ Bio-marker identification for COVID-19 remains a vital research area to improve 
 
 ## Dataset Information
 
-The dataset contains gene-expression and week labels: COVID Severity (Severe, Mild and Normal) which contains 23,189 Cells and 1,999 Genes.
+The dataset contains a gene expression matrix of 23,189 cells and 1,999 genes. Each cell has a COVID severity label (Normal, Mild, or Severe) based on the clinical severity label of its patient of origin.
 
 ## Libraries
 
